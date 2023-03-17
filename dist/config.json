@@ -107,7 +107,7 @@
     "dimensions_and_batch_together": true,
     "keyedit_precision_attention": 0.1,
     "keyedit_precision_extra": 0.05,
-    "quicksettings": "sd_model_checkpoint",
+    "quicksettings": "sd_model_checkpoint, sd_lora,  sd_hypernetwork, CLIP_stop_at_last_layers",
     "ui_reorder": "inpaint, sampler, dimensions, cfg, seed, checkboxes, hires_fix, batch, scripts",
     "ui_extra_networks_tab_reorder": "",
     "localization": "zh_CN",
