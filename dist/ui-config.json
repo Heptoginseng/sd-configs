@@ -65,7 +65,7 @@
     "txt2img/Tiling/visible": true,
     "txt2img/Tiling/value": false,
     "txt2img/Hires. fix/visible": true,
-    "txt2img/Hires. fix/value": true,
+    "txt2img/Hires. fix/value": false,
     "txt2img/Upscaler/visible": true,
     "txt2img/Upscaler/value": "Latent",
     "txt2img/Hires steps/visible": true,
