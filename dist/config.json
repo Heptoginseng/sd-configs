@@ -174,7 +174,7 @@
     "interrogate_clip_skip_categories": [],
     "extra_networks_default_view": "cards",
     "sd_hypernetwork": "None",
-    "sd_lora": "None",
+    "sd_lora": "1",
     "lora_apply_to_outputs": false,
     "postprocessing_enable_in_main_ui": [],
     "postprocessing_operation_order": [],
