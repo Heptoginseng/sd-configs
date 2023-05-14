@@ -11,7 +11,7 @@ Counterfeit-V2.5,"((masterpiece,best quality)),1girl","EasyNegative, extra finge
 tomori,"masterpiece,best quality,1girl,<lora:TomoriNao:1>,tomori","easynegative,(worst quality,low quality,normal quality:1.4),lowres,skin spots,acnes,skin blemishes,age spot,glans,extra fingers,fewer fingers,strange fingers,((bad hand)), hand grip,( lean), extra ears,( four ears),strange eyes,(three arms),many hands,(many arms),((watermarking))"
 dafeng,"taihou,taihoudefault,taihoumuse,taihouwedding,taihouforbid,taihouphoenix,taihourq,taihourqsmall,taihousweet,",""
 dalcefo,"<(realistic:1.4),(extremely intricate:1.2)>,1girl","(worst quality, low quality:1.4), (depth of field, blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username,blurry,artist name,trademark,watermark,title,multiple view,Reference sheet,curvy,plump,fat,muscular female,strabismus,clothing cutout,side slit,(nsfw:1.3),"
-fox-10,"masterpiece, best quality, detailed background, scenery,","EasyNegative, low quality, worst quality, text, watermark,multiple views,"
+fox-10,"masterpiece,best quality,detailed background,scenery,1girl","EasyNegative,low quality,worst quality,text,watermark,multiple views,"
 primeMix,"masterpiece,best quality,8K,wall paper,photorealistic,1girl","badhandv4,bad_prompt EasyNegative,ng_deepnegative_v1_75t,verybadimagenegative_v1.3"
 grape,"masterpiece,best quality,1girl,","(worst quality, low quality:1.4),monochrome,zombie,extra limbs,"
 gzKComic_v1,"(masterpiece),(best quality),","(worst quality, low quality:1.2),(bad-artist:1.2),(badhandv4:1.2),(jpeg artifacts:1.4),(blush,embarrassed,nose blush,light blush,full-face blush:1.2),(realistic,lip,nose,tooth,rouge,lipstick,eyeshadow:1.0), (abs,muscular,rib:1.2),"
