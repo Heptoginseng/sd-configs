@@ -24,6 +24,7 @@ primeMix,"masterpiece,best quality,8K,wall paper,photorealistic,1girl","badhandv
 grape,"masterpiece,best quality,1girl,","(worst quality, low quality:1.4),monochrome,zombie,extra limbs,"
 gzKComic_v1,"(masterpiece),(best quality),","(worst quality, low quality:1.2),(bad-artist:1.2),(badhandv4:1.2),(jpeg artifacts:1.4),(blush,embarrassed,nose blush,light blush,full-face blush:1.2),(realistic,lip,nose,tooth,rouge,lipstick,eyeshadow:1.0), (abs,muscular,rib:1.2),"
 Hassaku,"masterpiece,best quality,1girl","(low quality, worst quality:1.4),extra monochrome,signature,text"
+REALM,"(masterpiece, best quality),1girl,","easynegative,badhandv4,verybadimagenegative_v1.3,(NegfeetV2:1.2),CR1.2-neg,(worst quality, low quality:1.4),((realistic:0.4) lip (nose:0.4) tooth,rouge,lipstick, eyeshadow:1),(dusty sunbeams:1),(abs, muscular, rib:1.2),(text,title,logo,signature:1),(depth of field,out of focus:1.4),(bad anatomy:1),(wip,sketch:0.8),"
 Sweet-mix,"1girl,","(bad_prompt_version2:0.8), EasyNegative, (worst quality:1.3), (low quality:1.3), extra fingers, fewer fingers, bad-hands-5, bad-artist"
 SoapMix 2.5D,"(best quality:1.6),(masterpiece:1.2),intricate detailed,1girl","lowres, bad anatomy, bad hands, missing fingers, (worst quality:1.4), (low quality:1.4), EasyNegative, badhandv4, loli, baby, (forehead:1.4), navel, double navel, big head, large head"
 SuikaMix,"masterpiece,best quality,1girl,Latent(nearest-exact), by 2, 25 stpes, 0.6 strength,","(easynegative),(ng_deepnegative_v1_75t),(worst quality, low quality:1.4),((watermark:1.4)),((signature:1.4))"
