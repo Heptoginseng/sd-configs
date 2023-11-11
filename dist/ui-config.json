@@ -785,7 +785,7 @@
     "train/Dataset directory/value": "",
     "train/Log directory/visible": true,
     "train/Log directory/value": "textual_inversion",
-    "train/Prompt template/visible": true,
+    "train/Prompt template/visible": false,
     "train/Prompt template/value": "style_filewords.txt",
     "train/Do not resize images/visible": true,
     "train/Do not resize images/value": false,
