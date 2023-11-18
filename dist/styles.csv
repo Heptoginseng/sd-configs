@@ -1,6 +1,6 @@
 ﻿name,prompt,negative_prompt
 NAiDefault,"masterpiece, best quality,1girl,","text,lowres,cropped, worst quality,low quality,normal quality,jpeg artifacts, signature, watermark, username, blurry, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits, missing arms, long neck, Humpbacked"
-AbyssOrangeMix3A2,"masterpiece,best quality,1girl,","(worst quality, low quality:1.4), ( jpeg artifacts:1.4), (depth of field, bokeh, blurry, film grain, chromatic aberration, lens flare:1.0), greyscale, monochrome, dusty sunbeams, trembling, motion lines, motion blur, emphasis lines, text, title, logo, signature,"
+AbyssOrangeMix2 - NSFW,"absurdres,1girl","(worst quality:1.2), (low quality:1.2), (lowres:1.1), (monochrome:1.1), (greyscale), multiple views, comic, blurry"
 AnyMiniPasky,"masterpiece,best quality,1girl,","EasyNegative,(worst quality,low quality,normal quality:1.4),lowres,skin spots,acnes,skin blemishes,age spot,glans, extra fingers, fewer fingers, strange fingers, ((bad hand)), Hand grip, (lean), Extra ears, (Four ears), Strange eyes, (three arms), Many hands, (Many arms), ((watermarking))"
 Async's MIX,"masterpiece,best quality,1girl,Latent (nearest-exact),0.57","(monochrome:1.1),(worst quality,low quality:1.4)"
 BeenYou Lite,"(best quality, masterpiece:1.3),1girl,Strength:0.4","(worst quality,low quality:1.3),text"
