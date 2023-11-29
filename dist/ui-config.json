@@ -7,7 +7,7 @@
     "txt2img/Styles/value": [
     ],
     "txt2img/Sampling method/visible": true,
-    "txt2img/Sampling method/value": "DPM++ 2M Karras",
+    "txt2img/Sampling method/value": "DPM++ SDE Karras",
     "txt2img/Sampling steps/visible": true,
     "txt2img/Sampling steps/value": 24,
     "txt2img/Sampling steps/minimum": 1,
